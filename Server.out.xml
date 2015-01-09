@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-01-07T14:37:37</date>
+  <millis>1420628857483</millis>
+  <sequence>0</sequence>
+  <logger>ProcessingValidatingRegistrationOfDepositAndTransactions.GreatServer</logger>
+  <level>INFO</level>
+  <class>ProcessingValidatingRegistrationOfDepositAndTransactions.GreatServer</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Terminal Id: 21374 Transaction's Id: 2 Process: withdraw Failed. There is not adequate balance value for withdrawing Amount: 100000000 Account: 35527439 Balance Value:120000 Balance Upper Bound:9000000</message>
+</record>
+<record>
+  <date>2015-01-07T14:37:37</date>
+  <millis>1420628857500</millis>
+  <sequence>1</sequence>
+  <logger>ProcessingValidatingRegistrationOfDepositAndTransactions.GreatServer</logger>
+  <level>INFO</level>
+  <class>ProcessingValidatingRegistrationOfDepositAndTransactions.GreatServer</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Terminal Id: 21374 Transaction's Id: 3 Process: deposit Succeed Amount: 30000 Account: 35527439 Balance Value:150000 Balance Upper Bound:9000000</message>
+</record>
+<record>
+  <date>2015-01-07T14:37:37</date>
+  <millis>1420628857505</millis>
+  <sequence>2</sequence>
+  <logger>ProcessingValidatingRegistrationOfDepositAndTransactions.GreatServer</logger>
+  <level>INFO</level>
+  <class>ProcessingValidatingRegistrationOfDepositAndTransactions.GreatServer</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Terminal Id: 21374 Transaction's Id: 1 Process: deposit Succeed Amount: 3000 Account: 33227781 Balance Value:19000 Balance Upper Bound:1000000</message>
+</record>
